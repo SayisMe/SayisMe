@@ -1,4 +1,42 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=saying%20me&fontSize=90)
+
+    안녕하세요! 🙌 정세희 라고 합니다.  
+    서울과학기술대학교 컴퓨터공학과에 재학중이며, 게임프로그래밍과 안드로이드 애플리케이션 개발에  
+    관심이 많아 꾸준하게 공부하고 있습니다✨
+
+# 🌸Profile🌸
+ 
+ ![image](https://user-images.githubusercontent.com/46295659/123131037-4698ec80-d488-11eb-9af0-d7459e4962c0.png)  
+ ![image](https://user-images.githubusercontent.com/46295659/123131281-83fd7a00-d488-11eb-949a-fc289c66f5a5.png)  
+ ![image](https://user-images.githubusercontent.com/46295659/123131783-fcfcd180-d488-11eb-92ea-a357d3d1b241.png)
+
+
+
+
+[![NaverMail Badge](https://img.shields.io/badge/Naver-brightgreen?style=for-the-badge&logo=Naver&logoColor=white&link=mailto:zanne1218@naver.com)](mailto:zanne1218@naver.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:zanne1218@gmail.com)](mailto:zanne1218@gmail.com)  
+[![Instagram Badge](https://img.shields.io/badge/Instagram-FF69B4?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/saying.me)](https://www.instagram.com/saying.me) [![Instagram Badge](https://img.shields.io/badge/Eatstagram-blueviolet?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/pr252nt)](https://www.instagram.com/pr252nt)  
+[![Tstory Badge](https://img.shields.io/badge/T_story-black?style=for-the-badge&link=https://saying-me.tistory.com)](https://saying-me.tistory.com)
+
+
+# 🏆Winning🏆
+ ![image](https://user-images.githubusercontent.com/46295659/123130578-d4280c80-d487-11eb-9116-ae66c0dc0b6b.png)
+ 
+
+# ✨License✨
+- 컴퓨터활용능력 1급
+- 한국사검정능력 1급
+- 정보처리기사
+- TOEIC 930
+
+# 👑Tech Stacks👑
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=AndroidStudio&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=AparcheSpark&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=AndroidStudio&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=AndroidStudio&logoColor=white"/></a>
 
 <!--
 **SayisMe/SayisMe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
