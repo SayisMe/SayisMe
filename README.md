@@ -22,7 +22,8 @@
 # 🏆Winning🏆
 ![image](https://user-images.githubusercontent.com/46295659/123190059-d61abb80-d4d9-11eb-87c6-2f064c963226.png)
 
- 
+# 💼Career💼
+## 2021 3월~8월 KIST한국과학기술연구원 바이오닉스연구단 인턴(학연) 
 
 # ✨License✨
 - 컴퓨터활용능력 1급
@@ -31,8 +32,18 @@
 - TOEIC 930
 
 # ✏Experience✏
-- 중앙동아리 소리사랑 29기 악기부장
-- 과동아리 다락방 27기
+- 2017 중앙 어쿠스틱 보컬동아리 소리사랑 29기 악기부장
+- 2017 과동아리 다락방 27기
+- 2017 C 스터디
+- 2018 Unity 스터디
+- 2019 Arduino 스터디
+- 2019 JAVA 스터디
+- 2019 ACM-ICPC 국제 대학생 프로그래밍 대회 참가
+- 2020한이음 ICT 멘토링 "Kids&Baby"
+- 2020한이음 ICT 멘토링 "임산부배려석을배려하자"
+- 2020 UCPC  전국 대학생 프로그래밍 대회 동아리 연합 대회 참가
+- 2020한이음 ICT 공모전 참가
+- 2021한이음 ICT 멘토링 "MetaAIShopping"
 
 # 👑Tech Stacks👑
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>
