@@ -20,7 +20,8 @@
 
 
 # 🏆Winning🏆
- ![image](https://user-images.githubusercontent.com/46295659/123130578-d4280c80-d487-11eb-9116-ae66c0dc0b6b.png)
+![image](https://user-images.githubusercontent.com/46295659/123190059-d61abb80-d4d9-11eb-87c6-2f064c963226.png)
+
  
 
 # ✨License✨
@@ -28,6 +29,10 @@
 - 한국사검정능력 1급
 - 정보처리기사
 - TOEIC 930
+
+# ✏Experience✏
+- 중앙동아리 소리사랑 29기 악기부장
+- 과동아리 다락방 27기
 
 # 👑Tech Stacks👑
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>
