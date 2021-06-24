@@ -1,5 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=saying%20me&fontSize=90)
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSayisMe&count_bg=%23FF65A3&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)  
     안녕하세요! 🙌 정세희 라고 합니다.  
     서울과학기술대학교 컴퓨터공학과에 재학중이며, 게임프로그래밍과 안드로이드 애플리케이션 개발에  
     관심이 많아 꾸준하게 공부하고 있습니다✨
